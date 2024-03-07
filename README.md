@@ -30,7 +30,7 @@ the specifications of the device I'm using
 
 ---
 
-## Install flyctl
+## &#x1F535; Install flyctl
 
 Reference https://fly.io/docs/hands-on/install-flyctl/
 
@@ -81,7 +81,7 @@ run the install script :
       ❯ echo $PATH
 
 
-## Sign Up
+## &#x1F535; Sign Up
 
       ❯ flyctl auth signup
 
