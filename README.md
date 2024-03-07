@@ -77,5 +77,16 @@ run the install script :
       ❯ source ~/.zshrc
 
 
-      # cek
+      # check, find the section /usr/local/bin/fly/bin
       ❯ echo $PATH
+
+
+## Sign Up
+
+      ❯ flyctl auth signup
+
+        Opening https://fly.io/app/auth/cli/8986bac405e4c52c88f218c776c8ea7f ...
+
+
+        Waiting for session... Done
+        successfully logged in as <your registered email>     
