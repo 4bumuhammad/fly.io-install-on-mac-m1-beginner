@@ -99,3 +99,14 @@ run the install script :
 
         Waiting for session... Done
         successfully logged in as <your registered email>
+
+## Check version
+
+      ❯ flyctl version
+
+        Update available 0.0.456 -> v0.2.11.
+        Run "flyctl version update" to upgrade.
+        flyctl v0.0.456 darwin/arm64 Commit: 43371b58 BuildDate: 2023-02-08T22:32:29Z
+
+
+---
