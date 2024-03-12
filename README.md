@@ -36,17 +36,18 @@ Reference https://fly.io/docs/hands-on/install-flyctl/
 
 run the install script :
 
+
       ❯ curl -L https://fly.io/install.sh | sh
 
-            % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                        Dload  Upload   Total   Spent    Left  Speed
-        100  1475    0  1475    0     0   4232      0 --:--:-- --:--:-- --:--:--  4287
-        ######################################################################## 100.0%
+              % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                          Dload  Upload   Total   Spent    Left  Speed
+          100  1475    0  1475    0     0   4232      0 --:--:-- --:--:-- --:--:--  4287
+          ######################################################################## 100.0%
 
 
       ❯ ls -lah | grep .fly
 
-        drwxr-xr-x   4 <user>  staff   128B Feb 12 20:05 .fly
+          drwxr-xr-x    9 <user>  staff   288B Mar 11 16:06 .fly
 
 
       ❯ sudo mv .fly /usr/local/bin/fly
@@ -56,7 +57,7 @@ run the install script :
 
       ❯ ls -lah /usr/local/bin | grep fly
 
-        drwxr-xr-x   4 <user>  staff   128B Feb 12 20:05 fly
+        drwxr-xr-x   4 <user>  staff   288B Mar 11 16:06 fly
 
 
       ❯ sudo chmod -R 0700 /usr/local/bin/fly
@@ -64,7 +65,7 @@ run the install script :
 
       ❯ ls -lah /usr/local/bin | grep fly
 
-        drwx------   4 <user>  staff   128B Feb 12 20:05 fly
+        drwx------   4 <user>  staff   288B Mar 11 16:18 fly
 
 
       ❯ open ~/.zshrc
@@ -104,9 +105,7 @@ run the install script :
 
       ❯ flyctl version
 
-        Update available 0.0.456 -> v0.2.11.
-        Run "flyctl version update" to upgrade.
-        flyctl v0.0.456 darwin/arm64 Commit: 43371b58 BuildDate: 2023-02-08T22:32:29Z
+        flyctl v0.2.15 darwin/arm64 Commit: 846630217aff135b32ec0d6a018cf6bdde0f1762 BuildDate: 2024-03-10T09:52:28Z
 
 
 ---
