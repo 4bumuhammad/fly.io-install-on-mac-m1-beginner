@@ -82,6 +82,8 @@ run the install script :
       ❯ echo $PATH
 
 
+
+
 ## &#x1F535; Sign Up
 
       ❯ flyctl auth signup
@@ -92,16 +94,29 @@ run the install script :
         Waiting for session... Done
         successfully logged in as <your registered email>     
 
-## &#x1F535; Sign In / Login
+
+
+&nbsp;
+
+&nbsp;
+
+
+&#x1F535; **Sign In / Login**
 
       ❯ flyctl auth login
-
+    
         Opening https://fly.io/app/auth/cli/bc1759b0e3f53ccea1d4573904e10242 ...
-
+    
         Waiting for session... Done
         successfully logged in as <your registered email>
 
-## Check version
+
+
+&nbsp;
+
+&nbsp;
+
+**Check version**
 
       ❯ flyctl version
 
