@@ -41,8 +41,9 @@ the specifications of the device I'm using
 
 &#x1F535; **Install flyctl :**
 
-&emsp; &emsp; &emsp; Reference :<br />
-&emsp; &emsp; &emsp; &emsp; <pre>https://fly.io/docs/hands-on/install-flyctl/</pre>
+&emsp; &emsp; Reference : `https://fly.io/docs/hands-on/install-flyctl/`
+
+&nbsp;
 
 run the install script :
 
