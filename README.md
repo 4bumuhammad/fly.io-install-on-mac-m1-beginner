@@ -2,9 +2,12 @@
     <img src="./fly-io-logo.svg" alt="fly-io-logo" style="display: block; margin: 0 auto;">
 </p>
 
+&nbsp;
 
 # Fly.io installation on Mac M1 to get started
 
+
+&nbsp;
 
 the specifications of the device I'm using
 
@@ -30,9 +33,16 @@ the specifications of the device I'm using
 
 ---
 
-## &#x1F535; Install flyctl
 
-Reference https://fly.io/docs/hands-on/install-flyctl/
+&nbsp;
+
+&nbsp;
+
+
+&#x1F535; **Install flyctl**
+
+Reference :<br />
+- <pre>https://fly.io/docs/hands-on/install-flyctl/</pre>
 
 run the install script :
 
@@ -84,7 +94,12 @@ run the install script :
 
 
 
-## &#x1F535; Sign Up
+&nbsp;
+
+&nbsp;
+
+
+&#x1F535; **Sign Up**
 
       ❯ flyctl auth signup
 
@@ -93,6 +108,7 @@ run the install script :
 
         Waiting for session... Done
         successfully logged in as <your registered email>     
+
 
 
 
